@@ -4,17 +4,15 @@ description: My repository of studies in cybersecurity.
 
 # Cybersecurity Journey
 
-```
-Content
+— Contend
 
-- Cisco Networking Academy
-- TryHackMe (coming soon)
-- Practical studies
-```
+* Cisco Networking Academy
+* TryHackMe (coming soon)
+* Pratical studies
 
-```
-Objective
 
-Document my evolution in the field of cybersecurity with a focus on offensive security.
-```
+
+— Objectives
+
+&#x20;Document my evolution in cybersecurity with focus on offensive security
 

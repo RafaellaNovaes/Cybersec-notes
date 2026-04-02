@@ -4,7 +4,7 @@ description: Curse focus on introduction to cybersecurity
 
 # Introduction to Cybersecurity - IFSP - Salto Campus
 
-Curse consisting of 5 modules and a final exame
+Curse consisting with 5 modules and a final exame
 
 \*\* Curse Objetives
 

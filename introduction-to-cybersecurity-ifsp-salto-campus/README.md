@@ -19,3 +19,21 @@ Here you'll find organized notes, technical analyses, and fundamental concepts c
 * Discover how companies defend against attacks and implement protective measures
 * Explore information, resources, and opportunities to build a career in cybersecurity
 * Build a technical portfolio documenting your learning journey
+
+# Module Structure
+
+Module 1: Introduction to Cybersecurity
+Fundamental concepts and general context
+
+What is cybersecurity?
+Importance and impacts
+Career pathways
+
+Module 2: Analyzing Cyber Attacks
+Types of malware, attack techniques, and vulnerabilities
+
+Module 3: Protecting Data and Privacy
+Defense, encryption, and secure practices
+
+Module 4: Devices and Security Technologies
+Corporate defense architecture

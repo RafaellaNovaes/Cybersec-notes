@@ -5,14 +5,17 @@ description: Curse focuses on introduction to cybersecurity
 # Introduction to Cybersecurity - IFSP - Salto Campus
   Course focuses on cybersecurity fundamentals, attack analysis, defense and protection tecnology
 
-Course consisting with 5 modules and a final exame
+Structure: 5 modules + final exam
+Goal: Build a solid foundation in cybersecurity for professional career development
 
 \*\* About the course
 
-This repository documents my journey on Introduction to Cybersecurity - IFSP(Instituto Federal de São Paulo) - Campus Salto, with
+This repository documents my journey through the Introduction to Cybersecurity - IFSP(Instituto Federal de São Paulo) - Campus Salto, enriched with complementary in-depth study content
 
-* Learn about basics concepts of online security, what's cybersecurity and impacts
-* Learn about the most common cyber threats, attacks and vulnerabilities
-* Learn about how companies can protect our operations against possibles attacks
-* Access of manies informations and resources for explore diferents carreer options on cybersecurity
+Here you'll find organized notes, technical analyses, and fundamental concepts covering everything from basic security principles to advanced protection technologies.
 
+* Learn about fundamental online security concepts and the impact of cybersecurity
+* Understand the most common cyber attacks, vulnerabilities, and associated risks
+* Discover how companies defend against attacks and implement protective measures
+* Explore information, resources, and opportunities to build a career in cybersecurity
+* Build a technical portfolio documenting your learning journey

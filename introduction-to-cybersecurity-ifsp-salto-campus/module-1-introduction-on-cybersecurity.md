@@ -51,7 +51,7 @@ The McCumber Cube is a professional security model used to evaluate and manage i
 
 
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Threat Actors (The "Who")
 

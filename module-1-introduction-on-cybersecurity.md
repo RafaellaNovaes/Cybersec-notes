@@ -7,17 +7,13 @@ description: >-
 
 # Module 1: Introduction on Cybersecurity
 
-####
-
-####
-
 #### The McCumber Cube  A professional framework used to manage information security. It consists of three critical dimensions:
 
 1. Security Principles: Confidentiality, Integrity, and Availability (CIA Triad).
 2. Data States: Transmission, Storage, and Processing.
 3. Safeguards: Technology, Policies/Practices, and People (Awareness).\
    \
-   ![](../.gitbook/assets/image.png)
+   ![](.gitbook/assets/image.png)
 
 #### Threat Actors & Motivations
 

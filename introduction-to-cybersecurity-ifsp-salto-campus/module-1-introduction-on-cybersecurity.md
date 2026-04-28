@@ -17,6 +17,8 @@ Cybersecurity is the continuous effort to protect individuals, organizations, an
   \
   \*\*Data Privacy: Once data is on the internet, it is nearly impossible to delete it completely. Criminals focus on long-term gains through identity theft.\*\*<br>
 
+***
+
 ### Information States and Types
 
 Data is any information that can be used for identification.
@@ -26,6 +28,8 @@ Data is any information that can be used for identification.
 * Organizational Data:
   * Traditional: Transactional data, intellectual property (patents/ideas), and financial records.
   * IoT & Big Data: The massive volume of data generated automatically by interconnected devices (sensors, smartwatches) that requires advanced analysis for decision-making.
+
+***
 
 ### The McCumber Cube (The Framework)
 
@@ -52,6 +56,8 @@ The McCumber Cube is a professional security model used to evaluate and manage i
 
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+***
 
 ### Threat Actors (The "Who")
 

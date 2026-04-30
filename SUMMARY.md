@@ -5,7 +5,7 @@
   * [Module 1: Introduction on Cybersecurity](introduction-to-cybersecurity-ifsp-salto-campus/module-1-introduction-on-cybersecurity.md)
   * [Module 2: Analyzing Cyber Attacks](introduction-to-cybersecurity-ifsp-salto-campus/module-2-analyzing-cyber-attacks.md)
   * [Module 3: Protecting Data and Privacy](introduction-to-cybersecurity-ifsp-salto-campus/module-3-protecting-data-and-privacy.md)
-  * [Page 3](introduction-to-cybersecurity-ifsp-salto-campus/page-3.md)
+  * [Module 4: Devices and Security Technologies](introduction-to-cybersecurity-ifsp-salto-campus/module-4-devices-and-security-technologies.md)
 * [Conceitos Básicos de Redes - IFSP - Campus Salto](conceitos-basicos-de-redes-ifsp-campus-salto/README.md)
   * [Conceitos Básicos de Redes](conceitos-basicos-de-redes-ifsp-campus-salto/conceitos-basicos-de-redes/README.md)
     * [Módulo 8 : protocolo de internet](conceitos-basicos-de-redes-ifsp-campus-salto/conceitos-basicos-de-redes/modulo-8-protocolo-de-internet.md)
